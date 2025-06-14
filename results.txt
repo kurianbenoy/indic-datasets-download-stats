@@ -1,0 +1,106 @@
+➜  git uv run download.py ai4bharat
+Fetching datasets for author: ai4bharat
+- ai4bharat/IndicVoices: 8096 downloads
+- ai4bharat/sangraha: 7851 downloads
+- ai4bharat/Shrutilipi: 4993 downloads
+- ai4bharat/indic_glue: 2767 downloads
+- ai4bharat/Kathbath: 2139 downloads
+- ai4bharat/samanantar: 2049 downloads
+- ai4bharat/indicvoices_r: 1898 downloads
+- ai4bharat/IndicHeadlineGeneration: 1603 downloads
+- ai4bharat/naamapadam: 1418 downloads
+- ai4bharat/Rasa: 1402 downloads
+- ai4bharat/Indic-Rag-Suite: 1123 downloads
+- ai4bharat/indic-align: 1103 downloads
+- ai4bharat/MILU: 852 downloads
+- ai4bharat/IndicParaphrase: 807 downloads
+- ai4bharat/BPCC: 797 downloads
+- ai4bharat/Pralekha: 777 downloads
+- ai4bharat/SeamlessAlign: 773 downloads
+- ai4bharat/IndicQuestionGeneration: 475 downloads
+- ai4bharat/NPTEL: 442 downloads
+- ai4bharat/wiki-translate: 417 downloads
+- ai4bharat/IndicVoices-ST: 393 downloads
+- ai4bharat/wiki-transliterate: 383 downloads
+- ai4bharat/IndicCorpV2: 355 downloads
+- ai4bharat/intel: 353 downloads
+- ai4bharat/MANGO: 349 downloads
+- ai4bharat/indic-instruct-data-v0.1: 335 downloads
+- ai4bharat/FBI: 333 downloads
+- ai4bharat/IndicSentenceSummarization: 298 downloads
+- ai4bharat/Svarah: 278 downloads
+- ai4bharat/Aksharantar: 275 downloads
+- ai4bharat/recon: 249 downloads
+- ai4bharat/IndicSentiment: 242 downloads
+- ai4bharat/IndicQA: 228 downloads
+- ai4bharat/Bhasha-Abhijnaanam: 198 downloads
+- ai4bharat/WordProject: 198 downloads
+- ai4bharat/IN22-Gen: 193 downloads
+- ai4bharat/IN22-Conv: 189 downloads
+- ai4bharat/IndicWikiBio: 164 downloads
+- ai4bharat/Mann-ki-Baat: 158 downloads
+- ai4bharat/IndicMSMARCO: 153 downloads
+- ai4bharat/FERMAT: 130 downloads
+- ai4bharat/Spoken-Tutorial: 125 downloads
+- ai4bharat/IndicMTEval: 113 downloads
+- ai4bharat/IndicXParaphrase: 70 downloads
+- ai4bharat/IndicCOPA: 66 downloads
+- ai4bharat/MSMARCO-XI: 64 downloads
+- ai4bharat/INCLUDE: 55 downloads
+- ai4bharat/Lahaja: 53 downloads
+- ai4bharat/ai2_arc-hi: 41 downloads
+- ai4bharat/Vanipedia: 32 downloads
+- ai4bharat/IndicSentiment-Translated: 26 downloads
+- ai4bharat/hellaswag-translated: 26 downloads
+- ai4bharat/UGCE-Resources: 25 downloads
+- ai4bharat/IndicXNLI-Translated: 24 downloads
+- ai4bharat/IndicQA-Translated: 23 downloads
+- ai4bharat/IndicQA-devanagari: 21 downloads
+- ai4bharat/IndicXParaphrase-Translated: 19 downloads
+- ai4bharat/IndicCOPA-Translated: 19 downloads
+- ai4bharat/human-eval: 18 downloads
+- ai4bharat/IndicHeadlineGeneration-Translated: 17 downloads
+- ai4bharat/IndicQA-romanized: 9 downloads
+- ai4bharat/indicwav2vec_noa_hf: 7 downloads
+- ai4bharat/IndicWikiBio-Translated: 7 downloads
+- ai4bharat/boolq-translated: 7 downloads
+- ai4bharat/Rural_Women_Bhojpuri: 0 downloads
+
+Total downloads for ai4bharat: 48103
+➜  git uv run download.py sarvamai 
+Fetching datasets for author: sarvamai
+- sarvamai/mmlu-indic: 1172 downloads
+- sarvamai/gsm8k-indic: 720 downloads
+- sarvamai/boolq-indic: 565 downloads
+- sarvamai/trivia-qa-indic-mcq: 310 downloads
+- sarvamai/arc-challenge-indic: 248 downloads
+- sarvamai/samvaad-hi-v1: 124 downloads
+- sarvamai/tatoeba-indic: 119 downloads
+- sarvamai/audiollm-evals: 54 downloads
+
+Total downloads for sarvamai: 3312
+➜  git uv run download.py krutrim-ai-labs
+Fetching datasets for author: krutrim-ai-labs
+- krutrim-ai-labs/IndicPope: 129 downloads
+- krutrim-ai-labs/IndicLLaVABench: 89 downloads
+- krutrim-ai-labs/IndicST: 77 downloads
+- krutrim-ai-labs/IndicMMVet: 73 downloads
+- krutrim-ai-labs/Chitrakshara: 38 downloads
+
+Total downloads for krutrim-ai-labs: 406
+➜  git uv run download.py maya-research  
+Fetching datasets for author: maya-research
+- maya-research/IndicVault: 302 downloads
+- maya-research/saregama: 20 downloads
+
+Total downloads for maya-research: 322
+➜  git uv run download.py soketlabs    
+Fetching datasets for author: soketlabs
+- soketlabs/bhasha-wiki: 1119 downloads
+- soketlabs/bhasha-sft: 400 downloads
+- soketlabs/bhasha-wiki-indic: 267 downloads
+- soketlabs/bhasha-wiki-translated: 262 downloads
+- soketlabs/indic_qna_v1: 14 downloads
+- soketlabs/bhasha-wiki-indic-context: 12 downloads
+
+Total downloads for soketlabs: 2074
